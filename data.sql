@@ -339,7 +339,7 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (46, 23, '_menu_item_target', ''),
 (47, 23, '_menu_item_classes', 'a:1:{i:0;s:0:\"\";}'),
 (48, 23, '_menu_item_xfn', ''),
-(49, 23, '_menu_item_url', 'http://185.189.158.217:2345/'),
+(49, 23, '_menu_item_url', 'http://localhost:2345/'),
 (51, 24, '_menu_item_type', 'post_type'),
 (52, 24, '_menu_item_menu_item_parent', '0'),
 (53, 24, '_menu_item_object_id', '2'),
